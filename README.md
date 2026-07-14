@@ -1,1 +1,1 @@
-# Minicurso_Din-mica_Molecular_no_Gromacs
+# Minicurso Dinâmica Molecular no Gromacs
